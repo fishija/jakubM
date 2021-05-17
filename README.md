@@ -1,2 +1,1 @@
 # jakubM
-Projects from college
